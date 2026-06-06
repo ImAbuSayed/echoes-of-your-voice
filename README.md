@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/echoes-of-your-voice/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Echoes Of Your Voice](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/echoes-of-your-voice/) |
+| **Get License** | [Get a Licensing Quote for Echoes Of Your Voice](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/echoes-of-your-voice/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel your breath upon my skin tonight
+> Lost inside the embers of this fading light
+> Every word you whisper sets my soul on fire
+> Pulling me deeper into sweet desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
